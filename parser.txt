@@ -1,0 +1,133 @@
+Type : int
+Identifier : i 
+Const : 4 
+Const : 5 
+Operator : + 
+Assignment ends
+int declared
+
+Identifier : x 
+Identifier : y 
+Assignment : =  ends 
+Identifier : i 
+Const : 0 
+Operator : == 
+Identifier : i 
+Identifier : i 
+Const : 1 
+Operator : + 
+Assignment : =  ends 
+Function body ends
+While Loop ends 
+
+Type : char *
+Identifier : func1 
+Type : int
+Identifier : a 
+Type : int
+Type : char *
+Identifier : b 
+Type : char *
+Function Arguments end 
+
+Type : int
+Identifier : i 
+Const : 2 
+Const : 3 
+Operator : + 
+Assignment ends
+int declared
+Type : char *
+Identifier : s 
+char * declared
+Identifier : i 
+Const : 0 
+Operator : >= 
+Identifier : i 
+Identifier : i 
+Const : 1 
+Operator : - 
+Assignment : =  ends 
+Function body ends
+While Loop ends 
+
+Identifier : s 
+Const : 0 
+Operator : [] 
+Identifier : s 
+Identifier : s 
+String : "1" 
+Operator : + 
+Assignment : =  ends 
+Function body ends
+While Loop ends 
+
+Type : char *
+Identifier : y 
+Identifier : s 
+Assignment ends
+char * declared
+Identifier : y 
+Return statement ends 
+
+Function body ends
+Function Defination ends 
+
+
+Type : int
+Identifier : func2 
+Function Arguments end 
+
+Identifier : func 
+Function call ends 
+
+Const : 2 
+Return statement ends 
+
+Function body ends
+Function Defination ends 
+
+
+Type : int
+Identifier : main 
+Function Arguments end 
+
+Type : char *
+Identifier : s 
+String : "Hello World" 
+Assignment ends
+char * declared
+Type : int
+Identifier : var 
+int declared
+Type : char *
+Identifier : y 
+char * declared
+Type : int
+Identifier : no 
+Const : 100 
+Assignment ends
+int declared
+Identifier : var 
+Identifier : func1 
+Const : 9 
+Identifier : s 
+Function call ends 
+
+Type : int
+Identifier : num 
+Identifier : s 
+Const : 0 
+Operator : [] 
+Assignment ends
+int declared
+Function body ends
+If condition ends  
+
+Const : 1 
+Return statement ends 
+
+Function body ends
+Function Defination ends 
+
+
