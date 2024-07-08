@@ -1,5 +1,5 @@
 # Compiler-for-a-toy-language
-I have built a compiler for a toy language using flex and bison
+I have built a compiler for a toy language using lex(flex) and yacc(bison)
 
 To compile and run the program:
 1. lex cucu.l (if lex does not work use flex)
